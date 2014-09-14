@@ -1,0 +1,13 @@
+ex02
+
+1. bien
+
+2. 
+
+  //print( 2 * math.PI * 10);
+  //print( math.PI * 10 * 10);
+  print(math.PI * math.pow(10, 2));
+  // https://api.dartlang.org/apidocs/channels/stable/dartdoc-viewer/dart-math#id_pow
+
+3. bien
+4. bien
